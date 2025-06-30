@@ -29,7 +29,7 @@ A modern, feature-rich UPI QR code generator built with React, TypeScript, and T
 1. Enter UPI ID and Name (required)
 2. Add amount (optional)
 3. Choose a theme or customize colors
-4. Download or share your QR code
+4. Download or share your QR code 
 
 ### Advanced Features
 - **Error Correction**: Choose from Low, Medium, Quartile, or High
