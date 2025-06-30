@@ -1,6 +1,6 @@
 # UPI QR Generator
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/kapilkumarr/qr-upi/ci.yml?branch=main)](https://github.com/kapilkumarr/qr-upi/actions)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Vercel Deploy](https://img.shields.io/badge/deployed%20on-vercel-000?logo=vercel)](https://qr-upi.vercel.app/)
 [![Issues](https://img.shields.io/github/issues/kapilkumarr/qr-upi)](https://github.com/kapilkumarr/qr-upi/issues)
